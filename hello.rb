@@ -6,6 +6,7 @@ gift = [
           "a slice of stale wedding cake",
           "a medium-sized island off the coast of Sumatra",
           "a visual prosthesis",
+          "a brand new iPad"
          ]
          
 
